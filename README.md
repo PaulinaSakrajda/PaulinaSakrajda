@@ -25,5 +25,4 @@ umiejętności.
 
 Marzenie? Zamarzyło mi się zostanie kobietą w branży IT, a jak wiadomo
 wszystko zaczyna się od marzenia. W codziennej pracy staram się przede
-wszystkim czerpać przyjemność z tego co robię, a praca w Państwa firmie
-umożliwiłaby mi profesjonalny rozwój.
+wszystkim czerpać przyjemność z tego co robię.
